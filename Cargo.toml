@@ -1,0 +1,9 @@
+[workspace]
+
+resolver = "2"
+
+members = [
+    "process","forge_view"
+]
+[workspace.dependencies]
+anyhow = "1.0.75"
